@@ -1960,7 +1960,7 @@ input, select, textarea {
 			text-align: center;
 		}
 
-/* Nav */
+/* Nav 
 
 	#nav {
 		position: absolute;
@@ -2032,7 +2032,7 @@ input, select, textarea {
 			#nav > ul > li:hover > a > span {
 				color: #ED786A;
 			}
-
+*/
 	.dropotron {
 		text-align: left;
 		border: solid 1px #e5e5e5;
