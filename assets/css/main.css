@@ -7,6 +7,29 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license) #FBD866
 */
 
+/*az*/
+/* Styling for the WhatsApp icon */
+.whatsapp-icon {
+	position: fixed;
+	top: 20%;
+	right: 5%;
+	/*background-color: #25D366;*/
+	/*color: #fff;
+	padding: 20px;
+	border-radius: 50%;
+	font-size: 40px; */
+	cursor: pointer;
+	z-index: 9999;
+	/* height: 80px;  Add this line */
+	/* width: 80px;  Add this line */
+	/* line-height: 80px; Add this line */
+}
+/* Styling for the WhatsApp icon on hover */
+.whatsapp-icon:hover {
+	background-color: #128C7E;
+}
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
